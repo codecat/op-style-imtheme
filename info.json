@@ -1,0 +1,144 @@
+{
+  "styles": [
+    {
+      "author": "ocornut",
+      "description": "Classic Dear ImGui style",
+      "name": "Classic",
+      "screenshot": "screenshots/Classic.jpg",
+      "style": "styles/Classic.toml"
+    },
+    {
+      "author": "dougbinks",
+      "description": "Default Dear ImGui light style",
+      "name": "Light",
+      "screenshot": "screenshots/Light.jpg",
+      "style": "styles/Light.toml"
+    },
+    {
+      "author": "dougbinks",
+      "description": "Default Dear ImGui dark style",
+      "name": "Dark",
+      "screenshot": "screenshots/Dark.jpg",
+      "style": "styles/Dark.toml"
+    },
+    {
+      "author": "r-lyeh",
+      "description": "Sexy cherry style",
+      "name": "Cherry",
+      "screenshot": "screenshots/Cherry.jpg",
+      "style": "styles/Cherry.toml"
+    },
+    {
+      "author": "ice1000",
+      "description": "Poor simulation on IntelliJ's Darcula theme.",
+      "name": "Darcula",
+      "screenshot": "screenshots/Darcula.jpg",
+      "style": "styles/Darcula.toml"
+    },
+    {
+      "author": "Derydoca",
+      "description": "Inspired by Photoshop's UI.",
+      "name": "Photoshop",
+      "screenshot": "screenshots/Photoshop.jpg",
+      "style": "styles/Photoshop.toml"
+    },
+    {
+      "author": "dev0-1",
+      "description": "Inspirated from UE4.",
+      "name": "Unreal",
+      "screenshot": "screenshots/Unreal.jpg",
+      "style": "styles/Unreal.toml"
+    },
+    {
+      "author": "CookiePLMonster",
+      "description": "Gold & Black styled theme, designed to fit the art style of Deus Ex: Human Revolution.",
+      "name": "Gold",
+      "screenshot": "screenshots/Gold.jpg",
+      "style": "styles/Gold.toml"
+    },
+    {
+      "author": "MomoDeve",
+      "description": "Visual Studio-like theme.",
+      "name": "Visual Studio",
+      "screenshot": "screenshots/Visual Studio.jpg",
+      "style": "styles/Visual Studio.toml"
+    },
+    {
+      "author": "aiekick",
+      "description": "Base theme (Green / Blue) of ImGuiFontStudio",
+      "name": "Green Font",
+      "screenshot": "screenshots/Green Font.jpg",
+      "style": "styles/Green Font.toml"
+    },
+    {
+      "author": "aiekick",
+      "description": "Alternative Red/Dark theme of ImGuiFontStudio",
+      "name": "Red Font",
+      "screenshot": "screenshots/Red Font.jpg",
+      "style": "styles/Red Font.toml"
+    },
+    {
+      "author": "janekb04",
+      "description": "Some colors are not set yet. Those are set to pure red notice that they have to be modified.",
+      "name": "Deep Dark",
+      "screenshot": "screenshots/Deep Dark.jpg",
+      "style": "styles/Deep Dark.toml"
+    },
+    {
+      "author": "Sewer56",
+      "description": "",
+      "name": "Sonic Riders",
+      "screenshot": "screenshots/Sonic Riders.jpg",
+      "style": "styles/Sonic Riders.toml"
+    },
+    {
+      "author": "metasprite",
+      "description": "Classic Steam/Half-Life VGUI theme",
+      "name": "Classic Steam",
+      "screenshot": "screenshots/Classic Steam.jpg",
+      "style": "styles/Classic Steam.toml"
+    },
+    {
+      "author": "Raikiri",
+      "description": "Yet another dark theme.",
+      "name": "Dark Ruda",
+      "screenshot": "screenshots/Dark Ruda.jpg",
+      "style": "styles/Dark Ruda.toml"
+    },
+    {
+      "author": "usernameiwantedwasalreadytaken",
+      "description": "Mimics (more or less) Microsoft Design Guidelines.",
+      "name": "Microsoft",
+      "screenshot": "screenshots/Microsoft.jpg",
+      "style": "styles/Microsoft.toml"
+    },
+    {
+      "author": "Patitotective",
+      "description": "A cuter version of Cherry.",
+      "name": "Soft Cherry",
+      "screenshot": "screenshots/Soft Cherry.jpg",
+      "style": "styles/Soft Cherry.toml"
+    },
+    {
+      "author": "olekristensen",
+      "description": "Soft gray theme",
+      "name": "ledSynthmaster",
+      "screenshot": "screenshots/ledSynthmaster.jpg",
+      "style": "styles/ledSynthmaster.toml"
+    },
+    {
+      "author": "enemymouse",
+      "description": "Retro theme",
+      "name": "Enemymouse",
+      "screenshot": "screenshots/Enemymouse.jpg",
+      "style": "styles/Enemymouse.toml"
+    },
+    {
+      "author": "ImJC1C",
+      "description": "(Incomplete) Dark Flat theme fitting perfectly for any app.",
+      "name": "Material Flat",
+      "screenshot": "screenshots/Material Flat.jpg",
+      "style": "styles/Material Flat.toml"
+    }
+  ]
+}
